@@ -6,7 +6,10 @@ GitHub asked me to make a license, so I clicked what looked like the most permis
 Updated Feb 13th, 2026.
 
 # Notes for specific blueprints
-Old Blueprints - I don't think any of these require mods. However, I'm not sure, and don't care to look.
+-Blue Circuit Lamp Art requires mod textplates https://mods.factorio.com/mod/textplates 
+
+Old Blueprints 
+- I don't think any of these require mods. However, I'm not sure, and don't care to look.
 
 Ships Section 
 -Speed Racer and awa require mod K2 Fluid Storage: https://mods.factorio.com/mod/k2-fluid-storage
